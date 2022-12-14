@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+}
+#inicio{
+    background: linear-gradient(rgba(175, 155, 202, 0.733) 0%,rgba(80, 41, 133, 0.733) 100%);
+    position: absolute;
+    bottom: 0;
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+#foto {
+    border-radius: 50%;
+} 
+#bio {
+    padding: 50px;
+
+}
+#bio h1 {
+color: deeppink;
+}
+p{
+    font-family: 'Playfair Display', serif;
+}
+span{
+    font-family: 'IBM Plex Serif', serif;
+}
+h3{
+    color:blueviolet;
+}
